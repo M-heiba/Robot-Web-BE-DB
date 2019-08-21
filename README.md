@@ -22,7 +22,9 @@ pip install --upgrade robotframework-seleniumlibrary
 ## Usage
 
 1- Downloading this project structure 
+
 2- Add the needed keyword in the resources section (Page Object Model)
+
 3- Add the needed test cases.
 
 ## Refrences
